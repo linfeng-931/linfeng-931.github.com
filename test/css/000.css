@@ -14,5 +14,26 @@ body {
   font-weight: 700;
   font-style: normal;
 }
+#container .imgbox{
+	height: 216px;
+	width: 384px;
+	}
+#container.box1{
+	font-size:20px;
+	color:ivory;
+	background-image:url("background.jpg");
+	background-size:"384px 216px";
+	background-repeat:no-repeat;
+	text-align:center;
+		
+}
 
+#container lable{
+	width:inherit;
+	text-align:center;
+	font-size:80px;
+	color:white;
+	position:absolute;
+	style:"font-family: Amatic SC, sans-serif;"
+}
 
