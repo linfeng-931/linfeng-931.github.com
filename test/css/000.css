@@ -36,4 +36,10 @@ body {
 	position:absolute;
 	style:"font-family: Amatic SC, sans-serif;"
 }
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #898989ff;
+  color: #FFFFFF;
+}
 
